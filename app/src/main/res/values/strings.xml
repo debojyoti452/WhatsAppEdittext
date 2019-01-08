@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WhatsAppEditText</string>
+
+    //fonts
+    <string name="krub_bold">fonts/krub_bold.ttf</string>
+    <string name="krub_regular">fonts/krub_regular.ttf</string>
+    <string name="krub_medium">fonts/krub_medium.ttf</string>
+    <string name="krub_light">fonts/krub_light.ttf</string>
+    <string name="krub_semibold">fonts/krub_semibold.ttf</string>
+    <string name="krub_extralight">fonts/krub_extralight.ttf</string>
+
+    <string name="exo_black">fonts/exo_black.ttf</string>
+    <string name="exo_bold">fonts/exo_bold.ttf</string>
+    <string name="exo_light">fonts/exo_light.ttf</string>
+    <string name="exo_medium">fonts/exo_medium.ttf</string>
+    <string name="exo_regular">fonts/exo_regular.ttf</string>
+    <string name="exo_semibold">fonts/exo_semibold.ttf</string>
+    <string name="exo_thin">fonts/exo_thin.ttf</string>
+    <string name="abril_fatface">fonts/abril_fatface_regular.ttf</string>
+    <string name="click_me">Click Me</string>
+    <string name="demo_text">Demo Text</string>
+</resources>

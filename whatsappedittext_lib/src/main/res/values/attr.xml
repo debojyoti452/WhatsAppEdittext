@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WhatsAppEditText"><attr format="string" name="whatsEditFontPath"/></declare-styleable>
+    <declare-styleable name="WhatsAppTextView"><attr format="string" name="whatsTextFontPath"/></declare-styleable>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <dev452.com.whatsappedittext_lib.WhatsAppEditText
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hello World!"
+        android:textSize="20sp"
+        app:whatsTextFontPath="@string/exo_regular"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/click_me"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:onClick="demoBtn"/>
+
+    <dev452.com.whatsappedittext_lib.WhatsAppTextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:whatsEditFontPath="@string/exo_regular"
+        android:layout_marginTop="10dp"
+        android:text="@string/demo_text"
+        android:textSize="20sp"/>
+
+</LinearLayout>
