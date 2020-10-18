@@ -19,7 +19,7 @@ allprojects {
 
 Step 2. Add the dependency
 
-![Release](https://jitpack.io/v/andiisfh/easy-side-navigation.svg)
+![Release](https://jitpack.io/v/debojyoti452/WhatsAppEdittext.svg)
 ```
 dependencies {
         implementation 'com.github.debojyoti452:WhatsAppEdittext:${version}'
